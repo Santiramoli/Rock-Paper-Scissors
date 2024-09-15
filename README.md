@@ -13,7 +13,7 @@ This is a classic Rock, Paper, Scissors game developed with HTML, CSS, and JavaS
 - Option to restart the game.
 
 ## Screenshots
-(Add one or more screenshots of your application here)
+![App Screenshot](assets/rps.jpeg)
 
 ## Technologies
 HTML: Structure of the content.
