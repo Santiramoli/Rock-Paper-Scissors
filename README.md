@@ -3,7 +3,7 @@
 
 
 ## Description
-This is a classic Rock, Paper, Scissors game developed with HTML, CSS, and JavaScript. The goal is to play against the computer and see who wins more rounds out of a total of 5. The game allows the user to choose between rock, paper, or scissors and compares their choice with the computer's to determine the winner of each round and the overall winner.
+This is a classic Rock, Paper, Scissors game developed with [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev). The goal is to play against the computer and see who wins more rounds out of a total of 5. The game allows the user to choose between rock, paper, or scissors and compares their choice with the computer's to determine the winner of each round and the overall winner.
 
 ## Features
 - Interactive web game.
@@ -14,7 +14,4 @@ This is a classic Rock, Paper, Scissors game developed with HTML, CSS, and JavaS
 
 ## Screenshots
 ![App Screenshot](assets/rps.jpeg)
-
-## Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
