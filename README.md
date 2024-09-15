@@ -1,8 +1,8 @@
 
 # Rock, Paper, Scissors 
-:rock:
-:scissors:
-:page_with_curl:
+# :rock:
+# :scissors:
+# :page_with_curl:
 
 
 ## Description
