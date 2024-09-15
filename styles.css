@@ -14,13 +14,20 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: rgb(37,205,181);
-    background: radial-gradient(circle, rgba(37,205,181,1) 0%, rgba(0,255,91,1) 100%);
+    background: rgb(255,242,3);
+    background: radial-gradient(circle, rgba(255,242,3,1) 0%, rgba(0,255,91,1) 100%);
 }
 
 .main h1{
     margin: 0%;
     padding-bottom: 10px;
+}
+
+.main h3{
+    margin: 0;
+    padding-bottom: 10px;
+    font-weight: 100;
+    font-size: 22px;
 }
 
 .main button{
@@ -29,7 +36,7 @@ body{
     background: #000000;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 35px;
     cursor: pointer;
     margin: 0 10px;
     font-family: "Bebas Neue", sans-serif;
@@ -40,19 +47,91 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
+    margin: 20px 0 20px 0;
     padding: 10px;
     border-radius: 10px;
-    background-color: rgb(241, 242, 242);
+    background-color: rgb(0, 0, 0);
 }
 
 .icon{
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     margin: 0 10px;
     cursor: pointer;
 }
 
 .icon:hover{
     transform: scale(1.1);
+}
+
+.counter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 20px 0px;
+    border-radius: 10px;
+    width: 150px;
+}
+
+
+.computer-counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.computer-counter p{
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    color: white;
+}
+
+.player-counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.player-counter p{
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    color: white;
+}
+.counter div{
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+}
+
+.counter h3{
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    color: white;
+}
+
+.counter h2{
+    margin: 0;
+    padding: 0px 0px 10px 0px;
+    color: rgb(255, 242, 0);
+    font-size: 32px;
+}
+
+.restart{
+    margin-top: 20px;
+}
+
+.result{
+    display: none;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 100;
+    color: #000000;
 }
