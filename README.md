@@ -16,7 +16,5 @@ This is a classic Rock, Paper, Scissors game developed with HTML, CSS, and JavaS
 ![App Screenshot](assets/rps.jpeg)
 
 ## Technologies
-HTML: Structure of the content.
-CSS: Styling and design.
-JavaScript: Game logic and interactive functionalities.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
